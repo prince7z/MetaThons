@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "64ebf1f5a1b2c3d4e5f67890",
+    "name": "CodeStorm 2025",
+    "description": "A 48-hour coding marathon where developers compete to solve challenging problems.",
+    "prize_pool": 50000,
+    "Reg_start_date": "2025-01-01T00:00:00.000Z",
+    "Reg_end_date": "2025-01-15T23:59:59.000Z",
+    "thumbnail": "https://example.com/thumbnails/codestorm.png",
+    "location": "Online",
+    "rules": "No plagiarism. Teams of max 4. All coding languages allowed.",
+    "wanted_notices": [],
+    "listed_hackers": []
+  },
+  {
+    "_id": "64ebf2a1a1b2c3d4e5f67891",
+    "name": "HackTheFuture",
+    "description": "Innovate futuristic tech solutions in AI, Robotics, and Web3.",
+    "prize_pool": 75000,
+    "Reg_start_date": "2025-02-10T00:00:00.000Z",
+    "Reg_end_date": "2025-02-25T23:59:59.000Z",
+    "thumbnail": "https://example.com/thumbnails/hackthefuture.png",
+    "location": "New York Convention Center",
+    "rules": "Teams of 2-5 members. Original projects only. Submission via GitHub.",
+    "wanted_notices": [],
+    "listed_hackers": []
+  },
+  {
+    "_id": "64ebf2d5a1b2c3d4e5f67892",
+    "name": "ByteQuest",
+    "description": "Solve algorithmic challenges and build creative apps within 24 hours.",
+    "prize_pool": 30000,
+    "Reg_start_date": "2025-03-05T00:00:00.000Z",
+    "Reg_end_date": "2025-03-15T23:59:59.000Z",
+    "thumbnail": "https://example.com/thumbnails/bytequest.png",
+    "location": "Online",
+    "rules": "Individual or team participation. Focus on efficiency and code quality.",
+    "wanted_notices": [],
+    "listed_hackers": []
+  }
+]
